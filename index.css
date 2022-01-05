@@ -1,0 +1,16 @@
+*{
+    font-family: 'cwTeXYen';
+    font-weight: 700;
+}
+.background{
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1194px;
+height: 834px;
+}
+.leave{
+    position: absolute;
+    left: 1068px;
+    top: 74px;    
+}
